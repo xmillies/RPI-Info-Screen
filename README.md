@@ -18,3 +18,6 @@ To Do
 
 [ ] Use FPS limiting to reduce cycles on Pi
 
+
+apt-get install python-simplejson
+
